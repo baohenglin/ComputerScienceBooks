@@ -1,6 +1,6 @@
   
 <p align='center'>
-<img src='https://upload-images.jianshu.io/upload_images/4164292-5e6f3e5371bb909a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240'>
+<img src='https://upload-images.jianshu.io/upload_images/4164292-51be128073b71516.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240'>
 </p>
 
 ## *📖Computer Science Books*
@@ -20,7 +20,7 @@
 |编译原理|[《计算机程序的构造和解释》]()<br>[《编译原理》]()<br>|
 |数据库|[《MySQL必知必会》Ben Forta]()<br>[《数据库系统概念》]()<br>[《MySQL 官方手册》](https://dev.mysql.com/doc/)<br>[《高性能MySQL》](https://book.douban.com/subject/23008813/)<br>[《数据库的索引设计与优化》]()<br>|
 |架构/设计模式|[《Head First设计模式》]()<br>[《设计模式》]()<br>[《Clean Architecture》Robert C. Martin]()<br>|
-|专业修养|[《代码大全》]()<br>[《编程珠玑》]()<br>[《程序员的职业素养》Robert C·Martin]()<br>[《代码整洁之道》]()<br>[《领域驱动设计·软件核心复杂性应对之道》]()<br>[《修改代码的艺术》]()<br>[《重构：改善既有代码的设计》Martin Fowler]()<br>[《google软件测试之道》]()<br>|
+|专业修养|[《代码大全》]()<br>[《编程珠玑》]()<br>[《程序员的职业素养》Robert C·Martin]()<br>[《代码整洁之道》]()<br>[《领域驱动设计·软件核心复杂性应对之道》]()<br>[《修改代码的艺术》]()<br>[《重构：改善既有代码的设计》Martin Fowler]()<br>[《google软件测试之道》]()<br>[《程序员修炼之道》]()<br>[《人月神话》]()<br>|
 
 
 
