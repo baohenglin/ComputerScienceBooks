@@ -7,7 +7,7 @@
 
 |主题|书名|备注|
 |:---|:--|:---:
-|编程入门|[《与孩子一起学编程》苏金国]()<br>[《鸟哥的Linux私房菜》]()<br>|
+|编程入门|[《与孩子一起学编程》苏金国译]()<br>[《鸟哥的Linux私房菜》鸟哥]()<br>|
 |Python|[《Python编程：从入门到实践》Eric Matthes]()<br>[《Python编程快速上手：让繁琐工作自动化》AI Sweigart]()<br>|
 |C语言|[《C程序设计语言》Brian W.Kernighan]()<br>[《C语言程序设计现代方法》]()<br>[《C陷阱与缺陷》Andrew Koenig]()<br>|
 |C++|[《C++ Primer Plus》Stephen Prata]()<br>[《Effective C++》Scott Meyers]()<br>[《More Effective C++》Scott Meyers]()<br>[《深度探索C++对象模型》]()<br>|
